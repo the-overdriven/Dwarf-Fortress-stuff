@@ -22,3 +22,5 @@
 [Tweaked Faces](https://steamcommunity.com/sharedfiles/filedetails/?id=2898861338)  
 [Bulk Sewing](https://steamcommunity.com/sharedfiles/filedetails/?id=2904883350)  
 [Detailed Landscapes](https://steamcommunity.com/sharedfiles/filedetails/?id=2908779064)  
+
+[Mirror (all mods)](https://drive.google.com/drive/folders/1H5hR4cGPM2ytOsqVIZ7sh0QG__M_KI3W?usp=share_link)
