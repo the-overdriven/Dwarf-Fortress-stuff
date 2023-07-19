@@ -22,5 +22,15 @@
 [Tweaked Faces](https://steamcommunity.com/sharedfiles/filedetails/?id=2898861338)  
 [Bulk Sewing](https://steamcommunity.com/sharedfiles/filedetails/?id=2904883350)  
 [Detailed Landscapes](https://steamcommunity.com/sharedfiles/filedetails/?id=2908779064)  
+  
+[SK Suspend Button](https://steamcommunity.com/sharedfiles/filedetails/?id=2913796002)  
+[Metal plate floor](https://steamcommunity.com/sharedfiles/filedetails/?id=2919042512)  
+[Oab's Workshop: Dwarves](https://steamcommunity.com/sharedfiles/filedetails/?id=2915127770)  
+[MicroMod: always Cloaks](https://steamcommunity.com/sharedfiles/filedetails/?id=2922842361)  
+[Gender Name Colors](https://steamcommunity.com/sharedfiles/filedetails/?id=2923299070)  
+[Low Population Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=2927259273)  
+[Slightly Less Urist](https://steamcommunity.com/sharedfiles/filedetails/?id=2928575155)  
+[Improved Cat Graphics](https://steamcommunity.com/sharedfiles/filedetails/?id=2933363562)  
+[Ketaros Stones Variations](https://steamcommunity.com/sharedfiles/filedetails/?id=2951182373)  
 
 [Mirror (all mods)](https://drive.google.com/drive/folders/1H5hR4cGPM2ytOsqVIZ7sh0QG__M_KI3W?usp=share_link)
