@@ -1,6 +1,7 @@
 # Dwarf Fortress modlist
 
 
+[DFHack](https://store.steampowered.com/app/2346660/DFHack__Dwarf_Fortress_Modding_Engine/) (obviously...)
 [Real Time Combat Log, with combat sound](https://steamcommunity.com/sharedfiles/filedetails/?id=2905960813)  
 [Interface Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=2899720701)  
 [ON/OFF Burrows activation button](https://steamcommunity.com/sharedfiles/filedetails/?id=2902547714)  
