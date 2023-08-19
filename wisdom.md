@@ -34,7 +34,7 @@
 3. Build a lever.
 4. Link lever to the bridge.
 5. Designate dump zone.
-6. Press lever to atom smash
+6. Pull the lever to atom smash.
 
 ## 🗡️ How to make steel?
 1. Make iron  
