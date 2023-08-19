@@ -55,3 +55,17 @@ At smelter: "Make steel bars" (requires the same as above, except pig iron excep
 - cassiterite -> tin (light!)
 - sphalerite -> zince (light)
 - galena (50%) -> lead
+
+## 🧈 Other bars worth making at smelter:
+- bronze bars = copper bar + tin bar
+- bismuth bronze bars = copper bar + tin bar + bismuth bar
+- brass bars = zinc bar + copper bar
+- electrum = silver + gold
+
+## ⛏️ Good non-economic stones:
+- cinnabar (heavy)
+- cobaltite (heavy)
+- pitchblende (heavy)
+- petrified wood (light)
+- jet (light)
+- saltpeper (light)
