@@ -1,4 +1,4 @@
-## Checklist for every playthrough
+## 🐴 Checklist for every new playthrough
 1. Prevent wasting plump helmets.
 2. Disable child labor.
 3. Deconstruct wagon.
@@ -19,7 +19,7 @@
    - clothier: should be one
 
 
-## How to make quantum stockpiles?
+## 🛤️ How to make quantum stockpiles?
 1. Build a mine cart.
 2. Designate two 1x1 stockpiles, with same item type.
 3. Build a track stop between them (IMPORTANT: needs to halt)
@@ -28,7 +28,7 @@
 6. Assign the "from" stockpile to the track.
 7. Assign item types to the track.
 
-## How to make an atom smasher?
+## 💥 How to make an atom smasher?
 1. Build channel, min. 2x1
 2. Build a bridge below it.
 3. Build a lever.
@@ -36,7 +36,7 @@
 5. Designate dump zone.
 6. Press lever to atom smash
 
-## How to make steel?
+## 🗡️ How to make steel?
 1. Make iron  
 Smelt: hematite, limonite, magnetite
 2. Make pig iron  
@@ -47,3 +47,11 @@ Requires:
     - Flux stone boulders: calcite, chalk, dolomite, limestone, marble
 3. Make steel  
 At smelter: "Make steel bars" (requires the same as above, except pig iron except iron)
+
+## 🧈 What else is worth smelting?
+- tetrahedrite (20%), galena (50%), horn silver, silver nuggets -> silver (but not when you want to do electrum)
+- malachite, tetrahedrite -> copper
+- lignite, bituminous coal -> coke
+- cassiterite -> tin (light!)
+- sphalerite -> zince (light)
+- galena (50%) -> lead
