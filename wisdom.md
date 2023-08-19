@@ -25,7 +25,8 @@
 - `prioritize ConstructBuilding`  
   will kick your dwarves in the pants and get them to finish constructing all the buildings that are currently ready for construction
 - `showmood` reveals what the possessed dwarf really needs
-
+- `gui/autodump` allows selecting items to be removed instantly
+- `exterminate` can be ocasionally checked if invisible enemies are not swarming and clogging up FPS
 
 ## 🛤️ How to make quantum stockpiles?
 1. Build a mine cart.
