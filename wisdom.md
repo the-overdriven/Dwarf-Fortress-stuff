@@ -36,6 +36,13 @@
 5. Designate dump zone.
 6. Pull the lever to atom smash.
 
+## ⛓️ How to strip prisoners?
+Assuming you already have caged prisoners stacked in a stockpile:
+1. Mark all cages with unforbid select. Visually nothing will change, but in fact it will.
+2. Mark all cages with dump select.
+3. Click on each cage and unselect dumping (individually per each cage)
+4. Citizens will strip prisoners without moving cages (might take some time)
+
 ## 🗡️ How to make steel?
 1. Make iron  
 Smelt: hematite, limonite, magnetite
