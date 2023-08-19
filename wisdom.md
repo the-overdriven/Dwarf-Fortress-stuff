@@ -21,7 +21,7 @@
 
 ## 🛤️ How to make quantum stockpiles?
 1. Build a mine cart.
-2. Designate two 1x1 stockpiles, with same item type.
+2. Designate two 1x1 stockpiles, with same item type, set wheelbarrows to 0.
 3. Build a track stop between them (IMPORTANT: needs to halt)
 4. Create a new track.
 5. Assign the built mine cart to the track.
