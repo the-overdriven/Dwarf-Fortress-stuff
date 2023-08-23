@@ -18,7 +18,7 @@
    - smiths (armor & weapon): should be one
    - clothier: should be one
 
-## How to further optimize new embarks with "Prepare Carefully"
+## How to optimize new embarks with "Prepare Carefully"
 - First, replace all your pig tail threads, ropes, etc with cave spider silk equivalents. They work just as well and cost half as many points.
 - Next, replace your 1 stack of meat with a whole bunch of different kinds of meat, 1 of each. That way, each one comes with its own free barrel that you can use after eating the meat. Doesn't really matter what kind, so just go with the 2-point varieties.
 - You can get even more barrels by bringing one of each milk too.
