@@ -1,6 +1,6 @@
 ## 🐴 Checklist for every new playthrough
 1. Prevent wasting plump helmets.
-2. Disable child labor.
+2. Disable child labor (or only hauling bodies).
 3. Deconstruct wagon.
 4. Build beds (the only thing that can be crafted from wood)
 5. Disallow automatic web collection.
@@ -17,6 +17,17 @@
    - cook: should be one
    - smiths (armor & weapon): should be one
    - clothier: should be one
+
+## How to further optimize new embarks with "Prepare Carefully"
+- First, replace all your pig tail threads, ropes, etc with cave spider silk equivalents. They work just as well and cost half as many points.
+- Next, replace your 1 stack of meat with a whole bunch of different kinds of meat, 1 of each. That way, each one comes with its own free barrel that you can use after eating the meat. Doesn't really matter what kind, so just go with the 2-point varieties.
+- You can get even more barrels by bringing one of each milk too.
+- Get rid of the bags in your profile and instead get 1 of each color of sand. Sand only costs 1 point and each color comes with its own bag, similar to the meat barrel trick I posted above.
+- Animals: I recommend a breeding pair of cats (to take care of vermin), a breeding pair of dogs (to train as hunting dogs)
+- Turkeys because they produce Leather when Butchered - saving you from needing to bring larger animals to Ranch if you’re trying to produce your own Leather rather than import.
+- Turkeys + Pigs is a really solid livestock combo. You get eggs, meat, leather, and milk all without needing any grazing space. Especially nice for fortresses which want to isolate underground as much as possible. (pigs don't need to graze)
+- After that, you should still have a fair bit of points left. You can bump up your starting seeds and drinks, then pick up some gypsum plaster (for your hospital, to make casts) and lye (for soap, which is more important than you might think).
+- Pots are better than barrels for storing booze. They are the same size, use more commonly available material (rock), and train your craftsdwarves better. (pots are barrels made of stone)
 
 ## 👨🏻‍💻 Useful DFHack commands
 - `repeat --name reset-wear-every-week --time 8400 -command [ remove-wear all ]`
@@ -86,3 +97,8 @@ At smelter: "Make steel bars" (requires the same as above, except pig iron excep
 - petrified wood (light)
 - jet (light)
 - saltpeper (light)
+
+## Random
+- Wall engravings have a direction, and only add value to rooms that are in the right direction. Therefore it is necessary to separate bedrooms with 2 tiles of wall in order to optimize engraving value.
+  - You could also make the walls out of gem windows, giving both rooms way more value than engraving ever would
+- You can remove performer or monster slayer role from residents (Labor/Location) and this way allow them to be assigned to any task.
