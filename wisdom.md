@@ -56,6 +56,12 @@
 5. Designate dump zone.
 6. Pull the lever to atom smash.
 
+## 💦 How to drain water off the edge of the map?
+1. Dig until edge of the map.
+2. Smooth the wall of the last tile.
+3. Carve fortifications in the smoothed wall (not build!)
+4. Let the water flow away from the map.
+
 ## ⛓️ How to strip prisoners?
 Assuming you already have caged prisoners stacked in a stockpile:
 1. Mark all cages with unforbid select. Visually nothing will change, but in fact it will.
