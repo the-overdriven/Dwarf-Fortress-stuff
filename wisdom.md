@@ -33,6 +33,7 @@
 - `repeat --name autonick-every-week --time 8400 -command [ autonick all ]`
 - `repeat --name fix-buckets-every-week --time 8400 -command [ fix/dry-buckets ]`
 - `repeat --name fix-owned-trash --time 8400 -command [ cleanowned ]`
+- `repeat --name clean-all-every-week --time 8400 -command [ clean all ]`
 - `prioritize ConstructBuilding`  
   will kick your dwarves in the pants and get them to finish constructing all the buildings that are currently ready for construction
 - `showmood` reveals what the possessed dwarf really needs
