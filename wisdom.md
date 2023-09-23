@@ -39,6 +39,8 @@
 - `gui/autodump` allows selecting items to be removed instantly
 - `exterminate` can be ocasionally checked if invisible enemies are not swarming and clogging up FPS
 
+Commands can run on game load when inserted in `C:\Program Files (x86)\Steam\steamapps\common\Dwarf Fortress\dfhack-config\init\init.d`
+
 ## 🛤️ How to make quantum stockpiles?
 1. Build a mine cart.
 2. Designate two 1x1 stockpiles, with same item type, set wheelbarrows to 0.
