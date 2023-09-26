@@ -35,7 +35,7 @@
 - `repeat --name fix-owned-trash --time 8400 -command [ cleanowned ]`
 - `repeat --name clean-all-every-week --time 8400 -command [ clean all ]`
 - `repeat --name autodump-every-week --time 8400 -command [ autodump destroy ]`
-- `ban-cooking booze`
+- `on-new-fortress ban-cooking booze`
 - `deteriorate start --types corpses --freq 0.5,days`
 - `prioritize ConstructBuilding`
   will kick your dwarves in the pants and get them to finish constructing all the buildings that are currently ready for construction
