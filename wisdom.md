@@ -36,8 +36,8 @@
 - `repeat --name clean-all-every-week --time 8400 -command [ clean all ]`
 - `repeat --name autodump-every-week --time 8400 -command [ autodump destroy ]`
 - `ban-cooking booze`
-- `prioritize ConstructBuilding`
 - `deteriorate start --types corpses --freq 0.5,days`
+- `prioritize ConstructBuilding`
   will kick your dwarves in the pants and get them to finish constructing all the buildings that are currently ready for construction
 - `showmood` reveals what the possessed dwarf really needs
 - `gui/autodump` allows selecting items to be removed instantly
