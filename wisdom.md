@@ -109,7 +109,7 @@ At smelter: "Make steel bars" (requires the same as above, except pig iron excep
 - jet (light)
 - saltpeper (light)
 
-🩺 Minimum to have hospital running?
+## 🩺 Minimum to have hospital running?
 Items: crutches, splints, threads, clothes, soaps, tables, traction benches, beds, buckets, access to well, plaster powder, chests.
 Personnel: the minimum is a chief medical dwarf and one doctor.
 
