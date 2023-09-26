@@ -109,6 +109,10 @@ At smelter: "Make steel bars" (requires the same as above, except pig iron excep
 - jet (light)
 - saltpeper (light)
 
+🩺 Minimum to have hospital running?
+Items: crutches, splints, threads, clothes, soaps, tables, traction benches, beds, buckets, access to well, plaster powder, chests.
+Personnel: the minimum is a chief medical dwarf and one doctor.
+
 ## Random
 - Wall engravings have a direction, and only add value to rooms that are in the right direction. Therefore it is necessary to separate bedrooms with 2 tiles of wall in order to optimize engraving value.
   - You could also make the walls out of gem windows, giving both rooms way more value than engraving ever would
