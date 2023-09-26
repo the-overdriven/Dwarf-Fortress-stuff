@@ -36,13 +36,14 @@
 - `repeat --name clean-all-every-week --time 8400 -command [ clean all ]`
 - `repeat --name autodump-every-week --time 8400 -command [ autodump destroy ]`
 - `ban-cooking booze`
-- `prioritize ConstructBuilding`  
+- `prioritize ConstructBuilding`
+- `deteriorate start --types corpses --freq 0.5,days`
   will kick your dwarves in the pants and get them to finish constructing all the buildings that are currently ready for construction
 - `showmood` reveals what the possessed dwarf really needs
 - `gui/autodump` allows selecting items to be removed instantly
 - `exterminate` can be ocasionally checked if invisible enemies are not swarming and clogging up FPS
 
-Commands can run on game load when inserted in `C:\Program Files (x86)\Steam\steamapps\common\Dwarf Fortress\dfhack-config\init\init.d`
+Commands can run on game load when inserted in `C:\Program Files (x86)\Steam\steamapps\common\Dwarf Fortress\dfhack-config\init\onLoad.init`
 
 ## 🛤️ How to make quantum stockpiles?
 1. Build a mine cart.
