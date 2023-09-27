@@ -35,3 +35,26 @@
 [Ketaros Stones Variations](https://steamcommunity.com/sharedfiles/filedetails/?id=2951182373)  
 
 [Mirror (all mods)](https://drive.google.com/drive/folders/1H5hR4cGPM2ytOsqVIZ7sh0QG__M_KI3W?usp=share_link)
+
+## How to make all male dwarves have a beard?
+Edit `[TISSUE_STYLE:HAIR]` in `C:\Program Files (x86)\Steam\steamapps\common\Dwarf Fortress\data\vanilla\vanilla_entities\objects\entity_default.txt`:
+```
+[TISSUE_STYLE:HAIR]
+	TS_PREFERRED_SHAPING:STANDARD_HAIR_SHAPINGS
+	[TS_PREFERRED_SHAPING:NEATLY_COMBED]
+	[TS_PREFERRED_SHAPING:BRAIDED]
+	[TS_PREFERRED_SHAPING:DOUBLE_BRAIDS]
+	[TS_PREFERRED_SHAPING:PONY_TAILS]
+```
+
+## How to remove bald hairstyles?
+Edit `[TISSUE_STYLE:BEARD]` in `C:\Program Files (x86)\Steam\steamapps\common\Dwarf Fortress\data\vanilla\vanilla_entities\objects\entity_default.txt`:
+```
+[TISSUE_STYLE:BEARD]
+	[TS_MAINTAIN_LENGTH:100:NONE]
+	TS_PREFERRED_SHAPING:STANDARD_BEARD_SHAPINGS
+	[TS_PREFERRED_SHAPING:NEATLY_COMBED]
+	[TS_PREFERRED_SHAPING:BRAIDED]
+	[TS_PREFERRED_SHAPING:DOUBLE_BRAIDS]
+	[TS_PREFERRED_SHAPING:PONY_TAILS]
+```
