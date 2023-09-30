@@ -35,6 +35,8 @@
 - `repeat --name fix-owned-trash --time 8400 -command [ cleanowned ]`
 - `repeat --name clean-all-every-week --time 8400 -command [ clean all ]`
 - `repeat --name autodump-every-week --time 8400 -command [ autodump destroy ]`
+- `repeat --name extinguish-every-week --time 8400 -command [ extinguish -all ]`
+- `repeat --name unclog-fps-every-week --time 8400 -command [ exterminate "RODENT MAN" ]`
 - `on-new-fortress ban-cooking booze`
 - `deteriorate start --types corpses --freq 0.5,days`
 - `prioritize ConstructBuilding`
