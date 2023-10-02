@@ -43,6 +43,7 @@ new:
 [The Language Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=3041526930)  
 [Shaped Shoes/Boots](https://steamcommunity.com/sharedfiles/filedetails/?id=2908215621)  
 [Cute(r) creatures!](https://steamcommunity.com/sharedfiles/filedetails/?id=2906798609)  
+[Gauntlet Equip Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2920484492)  
 
 ## How to make all male dwarves have a beard?
 Edit `[TISSUE_STYLE:HAIR]` in `C:\Program Files (x86)\Steam\steamapps\common\Dwarf Fortress\data\vanilla\vanilla_entities\objects\entity_default.txt`:
