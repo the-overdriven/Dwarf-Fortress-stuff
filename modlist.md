@@ -44,6 +44,36 @@ new:
 [Shaped Shoes/Boots](https://steamcommunity.com/sharedfiles/filedetails/?id=2908215621)  
 [Cute(r) creatures!](https://steamcommunity.com/sharedfiles/filedetails/?id=2906798609)  
 [Gauntlet Equip Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2920484492)  
+Fancy Frames  
+Valuable Underground Trees 
+Cave ree Farming  
+Civilizations support more biomes  
+Armed Dwarves  
+Vanilla Weapon Overhaul
+Accurate Domestic Animal Graphics Compilation  
+Accurate Ungulate Graphics  
+More varied Dog and Cat graphics  
+Bravely Default Bestiary  
+Better Creature Descriptions  
+Military Uniforms  
+Creature Graphics Extended  
+Bourbon's Dark Depths  
+Additional Races: Ratfolk  
+Seasonish Crops  
+Better Instruments  
+See-Through Smoothing Designations w/ Priority
+Specific Decoration
+Deeper Dwarven Domestication  
+Cuter Cavern Moss  
+Decoration - vanity buildings  
+Piklopedia  
+Recycle clothes and armor (cloth and leather)  
+More Mushrooms  
+Tobb's Steel for Humans  
+Tobb's Armor Statues  
+Tweaked Faces  
+Colors in the Industry (Stained Glass)  
+Metallic  
 
 ## How to make all male dwarves have a beard?
 Edit `[TISSUE_STYLE:HAIR]` in `C:\Program Files (x86)\Steam\steamapps\common\Dwarf Fortress\data\vanilla\vanilla_entities\objects\entity_default.txt`:
