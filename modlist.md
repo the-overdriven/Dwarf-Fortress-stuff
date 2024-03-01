@@ -49,7 +49,7 @@ Valuable Underground Trees
 Cave ree Farming  
 Civilizations support more biomes  
 Armed Dwarves  
-Vanilla Weapon Overhaul
+Vanilla Weapon Overhaul  
 Accurate Domestic Animal Graphics Compilation  
 Accurate Ungulate Graphics  
 More varied Dog and Cat graphics  
