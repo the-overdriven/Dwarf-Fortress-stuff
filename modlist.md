@@ -61,7 +61,7 @@ Bourbon's Dark Depths
 Additional Races: Ratfolk  
 Seasonish Crops  
 Better Instruments  
-See-Through Smoothing Designations w/ Priority
+See-Through Smoothing Designations w/ Priority  
 Specific Decoration
 Deeper Dwarven Domestication  
 Cuter Cavern Moss  
