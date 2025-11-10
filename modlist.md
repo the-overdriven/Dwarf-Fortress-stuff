@@ -42,7 +42,7 @@ new:
 [Enhanced Trade](https://steamcommunity.com/sharedfiles/filedetails/?id=2924079137)  
 [The Language Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=3041526930) (might be outdated)  
 [Shaped Shoes/Boots](https://steamcommunity.com/sharedfiles/filedetails/?id=2908215621)  
-~~[Cute(r) creatures!](https://steamcommunity.com/sharedfiles/filedetails/?id=2906798609)~~ incompatible with vanilla_creatures_graphics  
+[Cute(r) creatures!](https://steamcommunity.com/sharedfiles/filedetails/?id=2906798609) (incompatible with vanilla_creatures_graphics - has to be unchecked)  
 [Gauntlet Equip Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2920484492)  
 [Fancy Frames](https://steamcommunity.com/sharedfiles/filedetails/?id=3058123417)  
 [Valuable Underground Trees](https://steamcommunity.com/sharedfiles/filedetails/?id=2910640248)  
