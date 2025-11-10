@@ -14,7 +14,7 @@
 [Deon's missing Plant Graphics replacement](https://steamcommunity.com/sharedfiles/filedetails/?id=2899775969)  
 [Obvious Engravings](https://steamcommunity.com/sharedfiles/filedetails/?id=2899669508)  
 ~~[Naut's Equipment Graphics & New Items](https://steamcommunity.com/sharedfiles/filedetails/?id=2900170621)~~ (outdated)  
-~~Better Pause and Play Buttons](https://steamcommunity.com/sharedfiles/filedetails/?id=2898964448)~~ (removed)  
+~~[Better Pause and Play Buttons](https://steamcommunity.com/sharedfiles/filedetails/?id=2898964448)~~ (removed)  
 [Underground Farming All Seasons](https://steamcommunity.com/sharedfiles/filedetails/?id=2898799817)  
 [See-Through Smoothing Designations](https://steamcommunity.com/sharedfiles/filedetails/?id=2898549749)  
 [White Z-Level Fog 30%](https://steamcommunity.com/sharedfiles/filedetails/?id=2899417247)  
