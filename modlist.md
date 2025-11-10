@@ -4,7 +4,7 @@
 [DFHack](https://store.steampowered.com/app/2346660/DFHack__Dwarf_Fortress_Modding_Engine/) (obviously...)  
 [Real Time Combat Log, with combat sound](https://steamcommunity.com/sharedfiles/filedetails/?id=2905960813)  
 [Interface Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=2899720701)  
-[ON/OFF Burrows activation button](https://steamcommunity.com/sharedfiles/filedetails/?id=2902547714)  
+~~[ON/OFF Burrows activation button](https://steamcommunity.com/sharedfiles/filedetails/?id=2902547714)~~ use [SK Suspend](https://steamcommunity.com/sharedfiles/filedetails/?id=2913796002)  
 [Alternate Ramp Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=2901708068)  
 [Rounded hills](https://steamcommunity.com/sharedfiles/filedetails/?id=2900381145)  
 ~~[Vanilla Two Handed Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=2899369954)~~  use [Arsenal and Cultural Overhaul](https://steamcommunity.com/workshop/filedetails/?id=3500712566)  
@@ -26,11 +26,11 @@
   
 [SK Suspend Button](https://steamcommunity.com/sharedfiles/filedetails/?id=2913796002)  
 [Metal plate floor](https://steamcommunity.com/sharedfiles/filedetails/?id=2919042512)  
-[Oab's Workshop: Dwarves](https://steamcommunity.com/sharedfiles/filedetails/?id=2915127770)  
+~~[Oab's Workshop: Dwarves](https://steamcommunity.com/sharedfiles/filedetails/?id=2915127770)~~ cursed  
 [MicroMod: always Cloaks](https://steamcommunity.com/sharedfiles/filedetails/?id=2922842361)  
-[Gender Name Colors](https://steamcommunity.com/sharedfiles/filedetails/?id=2923299070)  
-[Low Population Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=2927259273)  
-[Slightly Less Urist](https://steamcommunity.com/sharedfiles/filedetails/?id=2928575155)  
+~~[Gender Name Colors](https://steamcommunity.com/sharedfiles/filedetails/?id=2923299070)~~ unnecessary  
+~~[Low Population Tweaks](https://steamcommunity.com/sharedfiles/filedetails/?id=2927259273)~~ unnecessary    
+~~[Slightly Less Urist](https://steamcommunity.com/sharedfiles/filedetails/?id=2928575155)~~ unnecessary  
 [Improved Cat Graphics](https://steamcommunity.com/sharedfiles/filedetails/?id=2933363562)  
 [Ketaros Stones Variations](https://steamcommunity.com/sharedfiles/filedetails/?id=2951182373)  
 
