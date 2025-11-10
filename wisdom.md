@@ -1,7 +1,7 @@
 ## 🐴 Checklist for every new playthrough
 1. Prevent wasting plump helmets.
-2. Disable child labor (or only hauling bodies).
-3. Deconstruct wagon.
+2. Disable child labor (or only hauling bodies)
+3. Deconstruct wagon (you can recover 3 wood logs from it)
 4. Build beds (the only thing that can be crafted from wood)
 5. Disallow automatic web collection.
 6. Set up labors:
