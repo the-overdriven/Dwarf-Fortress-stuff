@@ -38,42 +38,42 @@
 
 new:  
 [Work Detail Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=2899155457)  
-[Smelt Ore By Product](https://steamcommunity.com/sharedfiles/filedetails/?id=2907526097)  
+~~[Smelt Ore By Product](https://steamcommunity.com/sharedfiles/filedetails/?id=2907526097)~~ needed?  
 [Enhanced Trade](https://steamcommunity.com/sharedfiles/filedetails/?id=2924079137)  
-[The Language Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=3041526930)  
+[The Language Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=3041526930) (might be outdated)  
 [Shaped Shoes/Boots](https://steamcommunity.com/sharedfiles/filedetails/?id=2908215621)  
-[Cute(r) creatures!](https://steamcommunity.com/sharedfiles/filedetails/?id=2906798609)  
+~~[Cute(r) creatures!](https://steamcommunity.com/sharedfiles/filedetails/?id=2906798609)~~ incompatible with vanilla_creatures_graphics  
 [Gauntlet Equip Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2920484492)  
-Fancy Frames  
-Valuable Underground Trees 
-Cave ree Farming  
-Civilizations support more biomes  
-Armed Dwarves  
-Vanilla Weapon Overhaul  
-Accurate Domestic Animal Graphics Compilation  
-Accurate Ungulate Graphics  
-More varied Dog and Cat graphics  
-Bravely Default Bestiary  
-Better Creature Descriptions  
-Military Uniforms  
-Creature Graphics Extended  
-Bourbon's Dark Depths  
-Additional Races: Ratfolk  
-Seasonish Crops  
-Better Instruments  
-See-Through Smoothing Designations w/ Priority  
-Specific Decoration
-Deeper Dwarven Domestication  
-Cuter Cavern Moss  
-Decoration - vanity buildings  
-Piklopedia  
-Recycle clothes and armor (cloth and leather)  
-More Mushrooms  
-Tobb's Steel for Humans  
-Tobb's Armor Statues  
-Tweaked Faces  
-Colors in the Industry (Stained Glass)  
-Metallic  
+[Fancy Frames](https://steamcommunity.com/sharedfiles/filedetails/?id=3058123417)  
+[Valuable Underground Trees](https://steamcommunity.com/sharedfiles/filedetails/?id=2910640248)  
+[Cave Tree Farming](https://steamcommunity.com/sharedfiles/filedetails/?id=3044707015)  
+[Civilizations support more biomes](https://steamcommunity.com/sharedfiles/filedetails/?id=3043302968)  
+[Armed Dwarves](https://steamcommunity.com/sharedfiles/filedetails/?id=2953632644)  
+[Vanilla Weapon Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=2912571821)  
+[Accurate Domestic Animal Graphics Compilation](https://steamcommunity.com/sharedfiles/filedetails/?id=3072627813)  
+[Accurate Ungulate Graphics](https://steamcommunity.com/sharedfiles/filedetails/?id=3071104413)  
+[More varied Dog and Cat graphics](https://steamcommunity.com/sharedfiles/filedetails/?id=3061496710)  
+[Bravely Default Bestiary](https://steamcommunity.com/sharedfiles/filedetails/?id=3128621376)  
+[Better Creature Descriptions](https://steamcommunity.com/sharedfiles/filedetails/?id=3143767330)  
+[Military Uniforms](https://steamcommunity.com/sharedfiles/filedetails/?id=3038927005)  
+~~[Creature Graphics Extended](https://steamcommunity.com/sharedfiles/filedetails/?id=2903486617)~~ outdated  
+[Bourbon's Dark Depths](https://steamcommunity.com/sharedfiles/filedetails/?id=2899395329)  
+[Additional Races: Ratfolk](https://steamcommunity.com/sharedfiles/filedetails/?id=2908646919)  
+[Seasonish Crops](https://steamcommunity.com/sharedfiles/filedetails/?id=2898438840)  
+[Better Instruments](https://steamcommunity.com/sharedfiles/filedetails/?id=2898331967)  
+[See-Through Smoothing Designations w/ Priority](https://steamcommunity.com/sharedfiles/filedetails/?id=2903048024)  
+[Specific Decoration](https://steamcommunity.com/sharedfiles/filedetails/?id=2906911621)  
+[Deeper Dwarven Domestication](https://steamcommunity.com/sharedfiles/filedetails/?id=3146101135)  
+[Cuter Cavern Moss](https://steamcommunity.com/sharedfiles/filedetails/?id=2910727726)  
+[Decoration - vanity buildings](https://steamcommunity.com/sharedfiles/filedetails/?id=2903270844)  
+[Piklopedia](https://steamcommunity.com/sharedfiles/filedetails/?id=2922169729)  
+[Recycle clothes and armor (cloth and leather)](https://steamcommunity.com/sharedfiles/filedetails/?id=2922111711)  
+[More Mushrooms](https://steamcommunity.com/sharedfiles/filedetails/?id=2900189868)  
+[Tobb's Steel for Humans](https://steamcommunity.com/sharedfiles/filedetails/?id=3093426264)  
+[Tobb's Armor Statues](https://steamcommunity.com/sharedfiles/filedetails/?id=3149680323)  
+[Colors in the Industry (Stained Glass)](https://steamcommunity.com/sharedfiles/filedetails/?id=3154132118)  
+[Metallic](https://steamcommunity.com/sharedfiles/filedetails/?id=3161048506)  
+[Advanced Agriculture](https://steamcommunity.com/sharedfiles/filedetails/?id=3094095525)
 
 ## How to make all male dwarves have a beard?
 Edit `[TISSUE_STYLE:HAIR]` in `C:\Program Files (x86)\Steam\steamapps\common\Dwarf Fortress\data\vanilla\vanilla_entities\objects\entity_default.txt`:
