@@ -75,6 +75,43 @@ new:
 [Metallic](https://steamcommunity.com/sharedfiles/filedetails/?id=3161048506)  
 [Advanced Agriculture](https://steamcommunity.com/sharedfiles/filedetails/?id=3094095525)
 
+Seed Extractor (ALL RACES VERSION) https://steamcommunity.com/sharedfiles/filedetails/?id=3603379733
+All Weapons & Armor Available https://steamcommunity.com/sharedfiles/filedetails/?id=3602806380
+unacknowledged_special_access_black_budget_pebbles_program https://steamcommunity.com/sharedfiles/filedetails/?id=3600785785
+More Valuable Procedural Creatures https://steamcommunity.com/sharedfiles/filedetails/?id=3539739541&searchtext=
+Gadget's Kobold Caverns https://steamcommunity.com/sharedfiles/filedetails/?id=2925028826
+Advanced Botanical Variety https://steamcommunity.com/sharedfiles/filedetails/?id=3411311606
+Burrow To Stockpile https://steamcommunity.com/sharedfiles/filedetails/?id=3511052027&searchtext=
+Better Combat Log https://steamcommunity.com/sharedfiles/filedetails/?id=3503790064&searchtext=
+Better Work Details https://steamcommunity.com/sharedfiles/filedetails/?id=3502121853&searchtext=
+Topples' Jewelry Portrait Graphics https://steamcommunity.com/sharedfiles/filedetails/?id=3501721577&searchtext=
+Dwarven Memorial https://steamcommunity.com/sharedfiles/filedetails/?id=3490893060&searchtext= 
+Mandate Manager https://steamcommunity.com/sharedfiles/filedetails/?id=3482656386&searchtext=  
+Remove Invisible Divine Items (Lua) https://steamcommunity.com/sharedfiles/filedetails/?id=3479977620&searchtext=  
+Outlands - Dwarven Heavy armor https://steamcommunity.com/sharedfiles/filedetails/?id=3476621294&searchtext=  
+Alert Manager https://steamcommunity.com/sharedfiles/filedetails/?id=3472724128&searchtext=  
+Seamless Constructed Walls https://steamcommunity.com/sharedfiles/filedetails/?id=3461507144&searchtext=  
+Dwarven Hairlines: Less Can be More https://steamcommunity.com/sharedfiles/filedetails/?id=3445374211&searchtext=  
+Biodiversity Booster https://steamcommunity.com/sharedfiles/filedetails/?id=3443853518&searchtext=  
+Uniform Cavern Moss https://steamcommunity.com/sharedfiles/filedetails/?id=3441029453&searchtext=  
+Plain English Language https://steamcommunity.com/sharedfiles/filedetails/?id=3430490964&searchtext=
+Sumptuously Engraved Floors https://steamcommunity.com/sharedfiles/filedetails/?id=3429443204&searchtext=  
+Finnish Suomi Language Mod https://steamcommunity.com/sharedfiles/filedetails/?id=3422742728&searchtext=  
+Water Flow Indicator Arrows https://steamcommunity.com/sharedfiles/filedetails/?id=3420018178&searchtext=  
+Ambiance Additions https://steamcommunity.com/sharedfiles/filedetails/?id=3359043418&searchtext=
+Vulgarity https://steamcommunity.com/sharedfiles/filedetails/?id=3357816905&searchtext=  
+Give me water https://steamcommunity.com/sharedfiles/filedetails/?id=3352660107&searchtext=
+Visible Artifact Equipment (Layered and Icons) https://steamcommunity.com/sharedfiles/filedetails/?id=3352515669&searchtext=  
+More Vanilla Creatures https://steamcommunity.com/sharedfiles/filedetails/?id=3244998524  
+The Way the Words Work https://steamcommunity.com/sharedfiles/filedetails/?id=3308775193&searchtext=
+More Vanilla Creatures Patch for Advanced Agriculture https://steamcommunity.com/sharedfiles/filedetails/?id=3324629244&searchtext=
+More Vanilla Creatures Adjusted https://steamcommunity.com/sharedfiles/filedetails/?id=3302744089&searchtext=  
+Deon's Menagerie - Beholder https://steamcommunity.com/sharedfiles/filedetails/?id=3267715624&searchtext=  
+
+Last update: 2025-11-11
+oldest mod: No Tutorial Patch (page 13/43)
+newest mod: Seed Extractor
+
 ## How to make all male dwarves have a beard?
 Edit `[TISSUE_STYLE:HAIR]` in `C:\Program Files (x86)\Steam\steamapps\common\Dwarf Fortress\data\vanilla\vanilla_entities\objects\entity_default.txt`:
 ```
