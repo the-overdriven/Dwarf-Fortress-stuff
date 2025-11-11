@@ -45,7 +45,7 @@ new (October 2023):
 [Cute(r) creatures!](https://steamcommunity.com/sharedfiles/filedetails/?id=2906798609) (incompatible with vanilla_creatures_graphics - has to be unchecked)  
 [Gauntlet Equip Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2920484492)  
 
-new (March 2024)
+new (March 2024):  
 [Fancy Frames](https://steamcommunity.com/sharedfiles/filedetails/?id=3058123417)  
 [Valuable Underground Trees](https://steamcommunity.com/sharedfiles/filedetails/?id=2910640248)  
 [Cave Tree Farming](https://steamcommunity.com/sharedfiles/filedetails/?id=3044707015)  
