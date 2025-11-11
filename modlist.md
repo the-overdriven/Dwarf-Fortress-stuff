@@ -49,7 +49,7 @@ new (March 2024):
 [Fancy Frames](https://steamcommunity.com/sharedfiles/filedetails/?id=3058123417)  
 [Valuable Underground Trees](https://steamcommunity.com/sharedfiles/filedetails/?id=2910640248)  
 [Cave Tree Farming](https://steamcommunity.com/sharedfiles/filedetails/?id=3044707015)  
-[Civilizations support more biomes](https://steamcommunity.com/sharedfiles/filedetails/?id=3043302968)  
+~~[Civilizations support more biomes](https://steamcommunity.com/sharedfiles/filedetails/?id=3043302968)~~ throws an error  
 [Armed Dwarves](https://steamcommunity.com/sharedfiles/filedetails/?id=2953632644)  
 [Vanilla Weapon Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=2912571821)  
 [Accurate Domestic Animal Graphics Compilation](https://steamcommunity.com/sharedfiles/filedetails/?id=3072627813)  
