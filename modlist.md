@@ -65,15 +65,15 @@ new (March 2024):
 [Better Instruments](https://steamcommunity.com/sharedfiles/filedetails/?id=2898331967)  
 [See-Through Smoothing Designations w/ Priority](https://steamcommunity.com/sharedfiles/filedetails/?id=2903048024)  
 [Specific Decoration](https://steamcommunity.com/sharedfiles/filedetails/?id=2906911621)  
-[Deeper Dwarven Domestication](https://steamcommunity.com/sharedfiles/filedetails/?id=3146101135)  
+~~[Deeper Dwarven Domestication](https://steamcommunity.com/sharedfiles/filedetails/?id=3146101135)~~ outdated  
 [Cuter Cavern Moss](https://steamcommunity.com/sharedfiles/filedetails/?id=2910727726)  
-[Decoration - vanity buildings](https://steamcommunity.com/sharedfiles/filedetails/?id=2903270844)  
-[Piklopedia](https://steamcommunity.com/sharedfiles/filedetails/?id=2922169729)  
+~~[Decoration - vanity buildings](https://steamcommunity.com/sharedfiles/filedetails/?id=2903270844)~~ unnecessary  
+~~[Piklopedia](https://steamcommunity.com/sharedfiles/filedetails/?id=2922169729)~~  
 [Recycle clothes and armor (cloth and leather)](https://steamcommunity.com/sharedfiles/filedetails/?id=2922111711)  
 [More Mushrooms](https://steamcommunity.com/sharedfiles/filedetails/?id=2900189868)  
 [Tobb's Steel for Humans](https://steamcommunity.com/sharedfiles/filedetails/?id=3093426264)  
 [Tobb's Armor Statues](https://steamcommunity.com/sharedfiles/filedetails/?id=3149680323)  
-[Colors in the Industry (Stained Glass)](https://steamcommunity.com/sharedfiles/filedetails/?id=3154132118)  
+~~[Colors in the Industry (Stained Glass)](https://steamcommunity.com/sharedfiles/filedetails/?id=3154132118)~~  
 [Metallic](https://steamcommunity.com/sharedfiles/filedetails/?id=3161048506)  
 [Advanced Agriculture](https://steamcommunity.com/sharedfiles/filedetails/?id=3094095525)
 
