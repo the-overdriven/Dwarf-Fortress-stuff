@@ -36,7 +36,7 @@
 
 [Mirror (all mods)](https://drive.google.com/drive/folders/1H5hR4cGPM2ytOsqVIZ7sh0QG__M_KI3W?usp=share_link)
 
-new:  
+new (October 2023):  
 [Work Detail Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=2899155457)  
 ~~[Smelt Ore By Product](https://steamcommunity.com/sharedfiles/filedetails/?id=2907526097)~~ needed?  
 [Enhanced Trade](https://steamcommunity.com/sharedfiles/filedetails/?id=2924079137)  
@@ -44,6 +44,8 @@ new:
 [Shaped Shoes/Boots](https://steamcommunity.com/sharedfiles/filedetails/?id=2908215621)  
 [Cute(r) creatures!](https://steamcommunity.com/sharedfiles/filedetails/?id=2906798609) (incompatible with vanilla_creatures_graphics - has to be unchecked)  
 [Gauntlet Equip Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2920484492)  
+
+new (March 2024)
 [Fancy Frames](https://steamcommunity.com/sharedfiles/filedetails/?id=3058123417)  
 [Valuable Underground Trees](https://steamcommunity.com/sharedfiles/filedetails/?id=2910640248)  
 [Cave Tree Farming](https://steamcommunity.com/sharedfiles/filedetails/?id=3044707015)  
