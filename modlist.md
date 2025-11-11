@@ -55,7 +55,7 @@ new (March 2024):
 [Accurate Domestic Animal Graphics Compilation](https://steamcommunity.com/sharedfiles/filedetails/?id=3072627813)  
 [Accurate Ungulate Graphics](https://steamcommunity.com/sharedfiles/filedetails/?id=3071104413)  
 [More varied Dog and Cat graphics](https://steamcommunity.com/sharedfiles/filedetails/?id=3061496710)  
-[Bravely Default Bestiary](https://steamcommunity.com/sharedfiles/filedetails/?id=3128621376)  
+~~[Bravely Default Bestiary](https://steamcommunity.com/sharedfiles/filedetails/?id=3128621376)~~  ~use More Vanilla Creatures instead  
 [Better Creature Descriptions](https://steamcommunity.com/sharedfiles/filedetails/?id=3143767330)  
 [Military Uniforms](https://steamcommunity.com/sharedfiles/filedetails/?id=3038927005)  
 ~~[Creature Graphics Extended](https://steamcommunity.com/sharedfiles/filedetails/?id=2903486617)~~ outdated  
