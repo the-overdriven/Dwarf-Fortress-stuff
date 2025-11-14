@@ -10,7 +10,7 @@
 ~~[Vanilla Two Handed Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=2899369954)~~  use [Arsenal and Cultural Overhaul](https://steamcommunity.com/workshop/filedetails/?id=3500712566)  
 🖼️[Squad & Burrow Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=2898973979)  
 🖼️[Audible Alerts](https://steamcommunity.com/sharedfiles/filedetails/?id=2898589374)  
-🖼️[Reduced Z-Level Fog](https://steamcommunity.com/sharedfiles/filedetails/?id=2898829756)  
+~~🖼️[Reduced Z-Level Fog](https://steamcommunity.com/sharedfiles/filedetails/?id=2898829756)~~ use White Z-Level Fog 30% instead    
 🖼️[Deon's missing Plant Graphics replacement](https://steamcommunity.com/sharedfiles/filedetails/?id=2899775969)  
 🖼️[Obvious Engravings](https://steamcommunity.com/sharedfiles/filedetails/?id=2899669508)  
 ~~[Naut's Equipment Graphics & New Items](https://steamcommunity.com/sharedfiles/filedetails/?id=2900170621)~~ (outdated)  
