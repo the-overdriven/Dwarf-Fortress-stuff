@@ -105,7 +105,7 @@ new 2025-11-11
 [Vulgarity]( https://steamcommunity.com/sharedfiles/filedetails/?id=3357816905&searchtext=)    
 [Give me water]( https://steamcommunity.com/sharedfiles/filedetails/?id=3352660107&searchtext=)   
 🖼️[Visible Artifact Equipment (Layered and Icons)]( https://steamcommunity.com/sharedfiles/filedetails/?id=3352515669&searchtext=)    
-🖼️[More Vanilla Creatures]( https://steamcommunity.com/sharedfiles/filedetails/?id=3244998524)    
+[More Vanilla Creatures]( https://steamcommunity.com/sharedfiles/filedetails/?id=3244998524)
 [The Way the Words Work]( https://steamcommunity.com/sharedfiles/filedetails/?id=3308775193&searchtext=)   
 [More Vanilla Creatures Patch for Advanced Agriculture]( https://steamcommunity.com/sharedfiles/filedetails/?id=3324629244&searchtext=)  
 [More Vanilla Creatures Adjusted]( https://steamcommunity.com/sharedfiles/filedetails/?id=3302744089&searchtext=)    
