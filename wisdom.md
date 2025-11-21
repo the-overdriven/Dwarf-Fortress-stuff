@@ -125,7 +125,7 @@ Personnel: the minimum is a chief medical dwarf and one doctor.
 - You can protect your nobles by assigning metal gear to them in the nobles screen (n)
 - Obsidian short swords are sharper than iron and easier to make (need only obsidian and wood logs) but weak against metal
 - Bedrooms can share doors with other bedrooms, effectively serving as connecting rooms, it's not an issue for dwarves and can save space
-- It's possible to conqueror or raid friendly sites and not trigger a war (or peace gets declared basically instantly), both by you and other forts in your civ.
+- It's possible to conquere or raid friendly sites and not trigger a war (or peace gets declared basically instantly), both by you and other forts in your civ.
 - Goblins and elves cannot become necromancers. Elves are already immortal, the secrets of the book don't interest them. See, the book teaches you the secrets of life and death, and it's alluring to humans and dwarves because it's the secret of immortality. That you can reanimate corpses is basically just an added bonus. Elves won't read the book, and even if they do, they won't become necromancers.
 - You can't raid your civilization from the map view (by clicking on a site), but you can raid your civilization from Artifacts screen if the site has any. This leads to some quirks: in the report's battle log when an enemy dwarf is killed it is highlighted in purple color - same color as when your own dwarf is killed. Attacked site can imprison your squad, but rescuing them seems to be possible from the "Missing citizens" screen.
 - With DFHack you can search artifacts in ctrl+g and map view (type artifact item type, i.e. short sword)
@@ -221,5 +221,5 @@ A: ?
 Q: Any way to make mission reports in the world screen unroll quicker? I mean the travelling traces and text animation. After sending many squads far away it gets tedious to read.  
 A: Increase FPS.
 
-Q: Can guests use dormitories? Can residents use bedrooms?
+Q: Can guests use dormitories? Can residents use bedrooms?  
 A: ?
