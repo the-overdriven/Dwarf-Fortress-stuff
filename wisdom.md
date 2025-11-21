@@ -123,13 +123,14 @@ Personnel: the minimum is a chief medical dwarf and one doctor.
 - Pots are better than barrels for storing booze. They are the same size, use more commonly available material (rock), and train your craftsdwarves better. (pots are barrels made of stone)
 - You can protect your nobles by assigning metal gear to them in the nobles screen (n)
 - Obsidian short swords are sharper than iron and easier to make (need only obsidian and wood logs) but weak against metal
+- Bedrooms can share doors with other bedrooms, effectively serving as connecting rooms, it's not an issue for dwarves and can save space
 
 ## Q & A
 Q: How to change available hairstyles and beard styles?  
 A: `Dwarf Fortress\data\vanilla\vanilla_entities\objects\entity_default.txt`, look for `[TISSUE_STYLE:HAIR]` and `[TISSUE_STYLE:BEARD]`
 
 Q: Is there an activity/thought related to admiring an artifact on display?  
-A: Allegedly yes, but very rare.
+A: Allegedly yes, but unfortunately, it's very rare.
 
 Q: How to start trading with other civilizations?  
 A: Demand tribute from them.
@@ -140,3 +141,24 @@ A: Once they become citizens, yes (1 year after becoming residents)
 Q: Artifacts appear in 2 different names, how to display both names?  
 A: ?
 
+Q: Why marksdwarves aren't shooting through fortifications despite having bolts?  
+A: They have too low skill level
+
+Q: How to move items with DFHack?  
+A: Designate items to be dumped. Press m to activate keyboard cursor (might need to enable in options first). Type `autodump` in DFHack console (Ctrl+Shift+D).
+
+Q: Do bestowed artifacts have any benefits? Like greater value or attributes.  
+A: Sadly, no.
+
+Q: Which animals need pastures?  
+A: ...
+
+Q: Cats kill vermin. But what does the vermin do?  
+A: Food loss, annoyed dwarves (bad thoughts), infestations
+
+Q: Do killing forgotten beasts bring any benefit? Are their bodies worth anything?  
+A: Unfortunately, no.
+
+Q: How to add new mods to existing save?  
+A: Copy installed mod's txt files (ideally with changed filenames) to SteamLibrary\steamapps\common\Dwarf Fortress\data\vanilla\vanilla_interface\graphics\
+Games reads any .txt files in data\vanilla, regardless of their names, thanks to this original files don't have to be edited.
