@@ -207,7 +207,7 @@ Q: What is a "current resident"?
 A: Current resident is the marker for those who have claimed the site. If your fort gets wiped and reclaim it whatever killed you off will also be marked as current resident.
 
 Q: Do dwarves use chests in their bedrooms?  
-A: ...
+A: Allegedly, they story family heirlooms there.
 
 Q: How to make a magma forge/smelter/etc?  
 A: It needs one hole with access to 4/7 tile of magma directly beneath the forge (no open space).
@@ -223,3 +223,12 @@ A: Increase FPS.
 
 Q: Can guests use dormitories? Can residents use bedrooms?  
 A: ?
+
+Q: How many clothes are needed to forge adamantine cloak?  
+A: 5
+
+Q: Can you heal animals?  
+A: Normally no, but you can with DFHack's `dwarfvet`
+
+Q: Does decorating with bones satisfy dwarf's "Craft an object" need? I don't want to create new items.  
+A: Sadly, no. But they can cheaply create rock mugs or toys, which are at least useful.
