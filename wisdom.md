@@ -232,3 +232,6 @@ A: Normally no, but you can with DFHack's `dwarfvet`
 
 Q: Does decorating with bones satisfy dwarf's "Craft an object" need? I don't want to create new items.  
 A: Sadly, no. But they can cheaply create rock mugs or toys, which are at least useful.
+
+Q: How many squads are needed to conquer a "lemur demon"?  
+A: Don't attack it; demand surrender and occupy, and if the goblins accept, they'll kill the demon, which I managed with four squads on a ~100-population dark fortress.
