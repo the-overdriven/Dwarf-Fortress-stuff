@@ -4,7 +4,8 @@
 3. Deconstruct wagon (you can recover 3 wood logs from it)
 4. Build beds (the only thing that can be crafted from wood)
 5. Disallow automatic web collection.
-6. Set up labors:
+6. Start squad training.
+7. Set up labors:
    - assign a lot of miners and few woodcutters, they should be mutually exclusive
    - everyone should be able to craft (and there should be many craft workshops)
    - militia should have no assigned labor
@@ -120,3 +121,22 @@ Personnel: the minimum is a chief medical dwarf and one doctor.
   - You could also make the walls out of gem windows, giving both rooms way more value than engraving ever would
 - You can remove performer or monster slayer role from residents (Labor/Location) and this way allow them to be assigned to any task.
 - Pots are better than barrels for storing booze. They are the same size, use more commonly available material (rock), and train your craftsdwarves better. (pots are barrels made of stone)
+- You can protect your nobles by assigning metal gear to them in the nobles screen (n)
+- Obsidian short swords are sharper than iron and easier to make (need only obsidian and wood logs) but weak against metal
+
+## Q & A
+Q: How to change available hairstyles and beard styles?  
+A: `Dwarf Fortress\data\vanilla\vanilla_entities\objects\entity_default.txt`, look for `[TISSUE_STYLE:HAIR]` and `[TISSUE_STYLE:BEARD]`
+
+Q: Is there an activity/thought related to admiring an artifact on display?  
+A: Allegedly yes, but very rare.
+
+Q: How to start trading with other civilizations?  
+A: Demand tribute from them.
+
+Q: Can humans, elves or goblins serve in military?  
+A: Once they become citizens, yes (1 year after becoming residents)
+
+Q: Artifacts appear in 2 different names, how to display both names?  
+A: ?
+
