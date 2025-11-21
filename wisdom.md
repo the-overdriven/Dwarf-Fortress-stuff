@@ -219,3 +219,6 @@ A: ?
 
 Q: Any way to make mission reports in the world screen unroll quicker? I mean the travelling traces and text animation. After sending many squads far away it gets tedious to read.  
 A: Increase FPS.
+
+Q: Can guests use dormitories? Can residents use bedrooms?
+A: ?
