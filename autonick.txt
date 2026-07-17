@@ -1,3 +1,7 @@
+# DEPRECATED
+# USE https://github.com/the-overdriven/df-autonick2/blob/main/autonick2.txt
+# __________________________________________________________________________
+
 # DF original names (some)
 Kulet
 Alak
