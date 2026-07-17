@@ -1,12 +1,13 @@
 ## 🐴 Checklist for every new playthrough
-1. Prevent wasting plump helmets.
+1. Prevent wasting plump helmets and other plants for cooking.
 2. Disable child labor (or only hauling bodies)
 3. Deconstruct wagon (you can recover 3 wood logs from it)
 4. Build beds (the only thing that can be crafted from wood)
 5. Disallow automatic web collection.
 6. Start squad training.
-7. Assign a manager asap to enable work orders (he needs an office with throne and table).
-8. Set up labors:
+7. Create a guild hall (they will increase their skills there).
+8. Assign a manager asap to enable work orders (he needs an office with throne and table).
+9. Set up labors:
    - assign a lot of miners and few woodcutters, they should be mutually exclusive
    - everyone should be able to craft (and there should be many craft workshops)
    - militia should have no assigned labor
