@@ -1,5 +1,12 @@
 # Dwarf Fortress modlist
 
+**Deprecated.**
+
+**For current modlist see:
+https://gist.github.com/the-overdriven/db4d1dd5e7e41a14d5b8a6855f2156f2**
+
+---
+
 
 [DFHack](https://store.steampowered.com/app/2346660/DFHack__Dwarf_Fortress_Modding_Engine/) (obviously...)  
 [Real Time Combat Log, with combat sound](https://steamcommunity.com/sharedfiles/filedetails/?id=2905960813)  
